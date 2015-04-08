@@ -1,0 +1,1 @@
+El objetivo de este documento es proporcionar al SAT los resultados de los escaneos de vulnerabilidades llevado a cabo por el Tiger Team de Global Cybersec, resumen de actividades realizadas, hallazgos y  recomendaciones para mitigar las vulnerabilidades encontradas en los equipos y servicios.
